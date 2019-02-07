@@ -7,6 +7,6 @@ I created this project because I wanted to have a way I could easily look up how
 I hope this resource helps you with your projects
 
 
-# Table of Contents
+## Table of Contents
 1. [Google Fonts](../Google Web Fonts)
 2. [Open Source Fonts](../Open Source Fonts)
