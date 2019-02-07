@@ -8,5 +8,5 @@ I hope this resource helps you with your projects
 
 
 ## Table of Contents
-1. [Google Fonts](../Google Web Fonts)
-2. [Open Source Fonts](../Open Source Fonts)
+1. [Google Fonts](../Google Web Fonts/README.md)
+2. [Open Source Fonts](../Open Source Fonts/README.md)
