@@ -20,4 +20,9 @@ Have a site to share? Any suggestions? See any mistakes or a broken link? Send a
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
+* Site Creators: all websites listed in this repository have their creators credited.
+
+### Resources
+* [Google Fonts](https://fonts.google.com/)
+* [Font Pair](https://fontpair.co/)
 
