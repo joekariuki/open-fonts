@@ -5,7 +5,7 @@ A collection of links to websites and applications that have used any free or op
 
 I created this project because I wanted to have a way to could easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not.
 
-I hope this helps you making font decisions with your projects
+I hope this resource inspires your projects :relieved:
 
 
 ### Font Types
