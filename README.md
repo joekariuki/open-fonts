@@ -1,13 +1,20 @@
-## What is this?
-A collection of links to free and open source fonts and how the fonts have been implemented on across the web. The repository was created to inspire designers and developers on how they can implement various free or open source fonts on their projects.
-
-## Why?
-I created this project because I wanted to have a way I could easily look up how a particular font has been implemented and be able to make a quick decision as to whether it would be a good fit for a project I am working on.
-
-I hope this resource helps you with your projects
 
 
-## Table of Contents
+###  Open Fonts 
+A collection of links to websites and applications that have used any free or open source font. The repository was created to inspire designers and developers on how they can use various free or open source fonts in their projects.
+
+I created this project because I wanted to have a way to could easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not.
+
+I hope this helps you making font decisions with your projects
+
+
+### Font Types
 1. [Sans-serif Fonts](./Sans-serif-Fonts.md)
 2. [Serif Fonts](./Serif-Fonts.md)
+
+### Contribute
+Have a site to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
+
+### Credits
+* Author: [@_joekariuki](https://twitter.com/_joekariuki)
 
