@@ -8,27 +8,22 @@
 #### Font: [Inter UI](https://rsms.me/inter/)
 * Inspiration: 
    * [Crawly](https://crawly.app/)
-      * Credits: Crawly
 
 #### Font: [Karla](https://fonts.google.com/specimen/Karla)
 * Inspiration:
    * [Zipbooks](https://zipbooks.com/)
-       * Credits: Zipbooks
 
 #### Font: [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * Inspiration:
    * [Twiverse](https://twiverse.com/)
        * Credits: [Alyssa](https://alyssax.com/)
 
-
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
    * [Slidebean](https://slidebean.com/)
-       * Credits: Slidebean
 
 #### Font: [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 * Inspiration:
    * [Bound](http://weare-bound.com/)
-       * Credits: Bound
 
 
