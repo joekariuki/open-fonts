@@ -4,6 +4,9 @@
 * Inspiration:
    * [Whisk](https://whisk.com/)
 
+#### Font: [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
+* Inspiration: 
+  * [Sip](http://sipapp.io/)
 
 #### Font: [Inter UI](https://rsms.me/inter/)
 * Inspiration: 
