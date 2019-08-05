@@ -26,8 +26,13 @@
 * Inspiration:
    * [Slidebean](https://slidebean.com/)
 
+#### Font: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+* Inspiration:
+   * [Indiehackers](https://www.indiehackers.com/)
+
 #### Font: [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 * Inspiration:
    * [Bound](http://weare-bound.com/)
+   
 
 
