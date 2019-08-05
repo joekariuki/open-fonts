@@ -25,6 +25,11 @@
 * Inspiration:
    * [Twiverse](https://twiverse.com/)
        * Credits: [Alyssa](https://alyssax.com/)
+#### Font: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans)
+* Inspiration:
+   * [ChartMongul](https://chartmogul.com/) 
+
+
 
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
