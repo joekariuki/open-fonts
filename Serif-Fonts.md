@@ -14,4 +14,7 @@
 * Inspiration:
    * [Typozon](http://typozon.com/)
 
+#### Font: [Publico](https://github.com/NewsappAJC/tablemaker/tree/master/src/style/fonts/publico)
+* Inspiration:
+   * [Olmo](https://olmo.io/)
 
