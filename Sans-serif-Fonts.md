@@ -2,8 +2,7 @@
 
 #### Font: [Asap](https://fonts.google.com/specimen/Asap)
 * Inspiration:
-   * [Whisk](https://whisk.com/)
-       * Credits: Whisk
+   * [Whisk](https://whisk.com/) created by Whisk
 
 
 #### Font: [Inter UI](https://rsms.me/inter/)
