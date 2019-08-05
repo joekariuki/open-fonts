@@ -15,6 +15,7 @@
 #### Font: [Karla](https://fonts.google.com/specimen/Karla)
 * Inspiration:
    * [Zipbooks](https://zipbooks.com/)
+   * [People Of Color In Tech (POCIT)](https://peopleofcolorintech.com/)
 
 #### Font: [Lato](https://fonts.google.com/specimen/Lato)
 * Inspiration:
