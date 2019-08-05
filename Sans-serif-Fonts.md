@@ -20,6 +20,7 @@
 #### Font: [Lato](https://fonts.google.com/specimen/Lato)
 * Inspiration:
    * [freeCodeCamp](https://www.freecodecamp.org/)
+   * [Lemonade](https://www.lemonade.com/)
 
 #### Font: [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * Inspiration:
