@@ -2,7 +2,7 @@
 
 ##  Open Fonts 
 
-A collection of links to websites and applications that have used any free or open source font. The repository was created to inspire designers and developers on how they can use various free or open source fonts in their projects.
+A collection of links to websites and applications that have used any free or open source font. The repository was created to inspire designers, developers and makers on how they can use various free or open source fonts in their projects.
 
 I created this project because I wanted to have a way to could easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not.
 
