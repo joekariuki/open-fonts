@@ -4,7 +4,7 @@
 * Inspiration:
   * [Coffee & Thoughts Reference](https://coffee.cortes.us/method)
 
-### Font: [Butler by Fabian De Smet](https://fabiandesmet.com/portfolio/butler-font/)
+#### Font: [Butler by Fabian De Smet](https://fabiandesmet.com/portfolio/butler-font/)
 * Inspiration:
   * [Headery](https://headery.com/)
 
