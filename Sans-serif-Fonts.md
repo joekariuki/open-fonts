@@ -13,6 +13,10 @@
 * Inspiration:
    * [Zipbooks](https://zipbooks.com/)
 
+#### Font: [Lato](https://fonts.google.com/specimen/Lato)
+* Inspiration:
+   * [freeCodeCamp](https://www.freecodecamp.org/)
+
 #### Font: [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * Inspiration:
    * [Twiverse](https://twiverse.com/)
