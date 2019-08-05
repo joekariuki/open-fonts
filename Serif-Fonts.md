@@ -14,7 +14,13 @@
 * Inspiration:
    * [Typozon](http://typozon.com/)
 
+#### Font: [Merriweather](https://fonts.google.com/specimen/Merriweather)
+* Inspiration:
+   * [Lemonade](https://www.lemonade.com/)
+
 #### Font: [Publico](https://github.com/NewsappAJC/tablemaker/tree/master/src/style/fonts/publico)
 * Inspiration:
    * [Olmo](https://olmo.io/)
+   
+ 
 
