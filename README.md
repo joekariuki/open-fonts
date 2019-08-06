@@ -21,7 +21,7 @@ Please refer to the [Contribution Guidelines]() for more information
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
-* Site Creators: all websites listed in this repository have their creators credited.
+* Site Creators: websites listed in this repository have their creators credited.
 
 ### Resources
 * [Google Fonts](https://fonts.google.com/)
