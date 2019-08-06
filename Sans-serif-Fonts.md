@@ -49,6 +49,7 @@
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
    * [Converkit](https://convertkit.com/)
+   * [Discourse](https://www.discourse.org/)
    * [Slidebean](https://slidebean.com/)
     
 
