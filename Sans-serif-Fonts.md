@@ -3,6 +3,10 @@
 #### Font: [Asap](https://fonts.google.com/specimen/Asap)
 * Inspiration:
    * [Whisk](https://whisk.com/)
+   
+#### Font: [Barlow](https://fonts.google.com/specimen/Barlow)
+* Inspiration:
+   * [Tooploox](https://www.tooploox.com/?)
 
 #### Font: [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 * Inspiration: 
