@@ -15,9 +15,11 @@
 #### Font: [Inter UI](https://rsms.me/inter/)
 * Inspiration: 
    * [Crawly](https://crawly.app/)
+   * [Hopin](https://www.hopin.to/)
 
 #### Font: [Karla](https://fonts.google.com/specimen/Karla)
 * Inspiration:
+   * [Mind Body Birth Co](https://mindbodybirth.co)
    * [Zipbooks](https://zipbooks.com/)
    * [People Of Color In Tech (POCIT)](https://peopleofcolorintech.com/)
 
@@ -69,6 +71,12 @@
 #### Font: [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 * Inspiration:
    * [Bound](http://weare-bound.com/)
+   
+#### Font: [Work Sans](https://fonts.google.com/specimen/Work+Sans)
+* Inspiration:
+   * [Revealbot](https://revealbot.com/)
+
+
    
 
 
