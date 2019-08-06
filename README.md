@@ -2,12 +2,11 @@
 
 ##  Open Fonts 
 
-A collection of links to websites and applications that have used any free or open source font. The repository was created to inspire designers, developers and makers on how they can use various free or open source fonts in their projects.
+A hand-picked collection of web design inspiration that use any free or open source fonts. This repository was created to inspire designers, developers and makers on how they can use various free or open source fonts in their projects.
 
-I created this project because I wanted to have a way to could easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not.
+I created this project because I wanted to have a way to easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not. 
 
-I hope this resource inspires your projects :relieved:
-
+I hope this resource inspires the design of your next project :relieved:
 
 ## Font Types
 
@@ -16,7 +15,9 @@ I hope this resource inspires your projects :relieved:
 
 ## Contribute
 
-Have a site to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
+Have a site or font to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
+
+Please refer to the [Contribution Guidelines]() for more information
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
