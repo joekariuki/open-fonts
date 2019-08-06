@@ -8,6 +8,10 @@
 * Inspiration:
   * [Headery](https://headery.com/)
 
+#### Font: [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
+* Inspiration:
+  * [Birch by Helix](https://birchliving.com/)
+
 #### Font: [Domine](https://fonts.google.com/specimen/Libre+Baskerville)
 * Inspiration:
    * [Campaign Monitor 2018 Email Predictions](https://www.campaignmonitor.com/resources/guides/2018-email-marketing-predictions/)
