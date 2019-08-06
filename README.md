@@ -15,13 +15,13 @@ I hope this resource inspires the design of your next project :relieved:
 
 ## Contribute
 
-Have a site or font to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
+Have a website or font to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
 
 Please refer to the [Contribution Guidelines]() for more information
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
-* Site Creators: websites listed in this repository have their creators credited.
+* Website Creators: websites listed in this repository have their creators credited.
 
 ### Resources
 * [Google Fonts](https://fonts.google.com/)
