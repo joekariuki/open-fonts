@@ -11,6 +11,7 @@
 #### Font: [Domine](https://fonts.google.com/specimen/Libre+Baskerville)
 * Inspiration:
    * [Campaign Monitor 2018 Email Predictions](https://www.campaignmonitor.com/resources/guides/2018-email-marketing-predictions/)
+   * [Convertkit](https://convertkit.com/)
    
 
 #### Font: [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville)
