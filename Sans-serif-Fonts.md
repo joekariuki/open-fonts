@@ -23,6 +23,7 @@
 
 #### Font: [Lato](https://fonts.google.com/specimen/Lato)
 * Inspiration:
+   * [Demio](https://demio.com/)
    * [freeCodeCamp](https://www.freecodecamp.org/)
    * [Lemonade](https://www.lemonade.com/)
    * [Tettra](https://tettra.co/)
@@ -31,6 +32,7 @@
 * Inspiration:
    * [Twiverse](https://twiverse.com/)
        * Credits: [Alyssa](https://alyssax.com/)
+   * [Askable](https://www.askable.com/)
        
 #### Font: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans)
 * Inspiration:
@@ -44,6 +46,7 @@
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
    * [Slidebean](https://slidebean.com/)
+   * [Converkit](https://convertkit.com/)
 
 #### Font: [Poppins](https://fonts.google.com/specimen/Poppins)
 * Inspiration:
