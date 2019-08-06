@@ -16,6 +16,7 @@
 * Inspiration: 
    * [Crawly](https://crawly.app/)
    * [Hopin](https://www.hopin.to/)
+   * [Visible](https://visible.vc/)
 
 #### Font: [Karla](https://fonts.google.com/specimen/Karla)
 * Inspiration:
@@ -75,6 +76,7 @@
 #### Font: [Work Sans](https://fonts.google.com/specimen/Work+Sans)
 * Inspiration:
    * [Revealbot](https://revealbot.com/)
+   * [Birch by Helix](https://birchliving.com/)
 
 
    
