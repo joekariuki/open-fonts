@@ -41,7 +41,10 @@
 #### Font: [Nunito](https://fonts.google.com/specimen/Nunito)
 * Inspiration:
    * [Nomadlist](https://nomadlist.com/) 
-
+   
+#### Font: [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans)
+* Inspiration:
+   * [Sendpulse](https://sendpulse.com/) 
 
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
