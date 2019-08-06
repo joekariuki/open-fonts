@@ -45,8 +45,9 @@
 
 #### Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 * Inspiration:
-   * [Slidebean](https://slidebean.com/)
    * [Converkit](https://convertkit.com/)
+   * [Slidebean](https://slidebean.com/)
+    
 
 #### Font: [Poppins](https://fonts.google.com/specimen/Poppins)
 * Inspiration:
