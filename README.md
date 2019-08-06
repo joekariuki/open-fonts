@@ -2,7 +2,7 @@
 
 ##  Open Fonts 
 
-A hand-picked collection of web design inspiration that use any free or open source fonts. This repository was created to inspire designers, developers and makers on how they can use various free or open source fonts in their projects.
+A hand-picked collection of website designs that use any free or open source fonts. This repository was created to inspire designers, developers and makers on how they can use various free or open source fonts in their projects.
 
 I created this project because I wanted to have a way to easily look up how a particular font has been used and be able to make a quick decision as to whether it would be a good fit for a project or not. 
 
