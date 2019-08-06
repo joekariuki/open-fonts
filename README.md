@@ -22,7 +22,8 @@ Please refer to the [Contribution Guidelines]() for more information.
 ## Support
 If you find this project helpful, consider buying me a coffee. Your support will be very appreciated!
 
-<a href="https://www.buymeacoffee.com/5Ckhr9Xdq" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+<a href="https://www.buymeacoffee.com/5Ckhr9Xdq" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" ></a>
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
