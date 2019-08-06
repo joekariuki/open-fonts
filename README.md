@@ -22,7 +22,7 @@ Create an issue, if you have any ideas or suggestions for developing this projec
 Please refer to the [Contribution Guidelines](./CONTRIBUTING.md) for more information.
 
 ## Support
-If you find this project helpful, consider supporting through the link below. Your support will be very appreciated!
+If you find this project helpful, consider supporting through the link below. Your support is highly appreciated!
 
 
 <a href="https://www.buymeacoffee.com/5Ckhr9Xdq" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a>
