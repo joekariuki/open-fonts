@@ -7,10 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format for fonts: `Font: [Font Title](link)`
     - The font title is the name of the font. For fonts created by individuals use the format `Font: [Font Title by Name of Creator](link)`
     - The link should a trusted source where people can access the font from.
-- Use the following add websites: 
-    `Inspiration: 
-     `* [Website Title](link)
-        `* Credit: [Creator of website](link)`
+- Use the following format for adding a websites: `[Website Title](link) Credit: [Creator of website](link)`
         
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Check your spelling and grammar.
