@@ -17,6 +17,8 @@ I hope this resource inspires the design of your next project :relieved:
 
 Have a website or font to share? Any suggestions? See any mistakes or a broken link? Send a pull request!
 
+Create an issue, if you have any ideas or suggestions for developing this project further.
+
 Please refer to the [Contribution Guidelines]() for more information.
 
 ## Support
