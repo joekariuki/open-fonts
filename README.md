@@ -19,15 +19,13 @@ Have a website or font to share? Any suggestions? See any mistakes or a broken l
 
 Create an issue, if you have any ideas or suggestions for developing this project further.
 
-Please refer to the [Contribution Guidelines]() for more information.
+Please refer to the [Contribution Guidelines](./CONTRIBUTING.md) for more information.
 
 ## Support
 If you find this project helpful, consider supporting through the link below. Your support will be very appreciated!
 
 
-<a href="https://www.buymeacoffee.com/5Ckhr9Xdq" target="_blank">
-  <img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;">
-</a>
+<a href="https://www.buymeacoffee.com/5Ckhr9Xdq" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a>
 
 ## Credits
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
