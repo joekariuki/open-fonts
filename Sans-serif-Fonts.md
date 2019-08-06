@@ -40,6 +40,10 @@
 * Inspiration:
    * [Slidebean](https://slidebean.com/)
 
+#### Font: [Poppins](https://fonts.google.com/specimen/Poppins)
+* Inspiration:
+   * [Buffer](https://buffer.com/)   
+
 #### Font: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 * Inspiration:
    * [Indiehackers](https://www.indiehackers.com/)
