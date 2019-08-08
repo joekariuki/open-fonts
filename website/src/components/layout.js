@@ -12,7 +12,6 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 import 'react-bulma-components/dist/react-bulma-components.min.css'
-import { Container } from "react-bulma-components/dist/index";
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -27,17 +26,15 @@ const Layout = ({ children }) => {
 
   return (
     <>
-    <Container>
       <Header siteTitle={data.site.siteMetadata.title} />
-
-        
-          <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Open Fonts
-          <br/>
-          Built by <a href="https://twitter.com/_joekariuki">@_joekariuki</a>
-        </footer>
-      </Container>
+        <div className="container">
+        <main>{children}</main>     
+          <footer>
+            © {new Date().getFullYear()}, Open Fonts
+            <br/>
+            Built by <a href="https://twitter.com/_joekariuki">@_joekariuki</a>
+          </footer>
+        </div>        
     </>
   )
 }
