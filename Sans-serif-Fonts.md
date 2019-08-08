@@ -61,6 +61,11 @@
 * Inspiration:
    * [Buffer](https://buffer.com/)  
 
+#### Font: [PT Sans](https://fonts.google.com/specimen/PT+Sans)
+* Inspiration:
+   * [Parrot](https://parrothq.com)  
+
+
 #### Font: [Roboto](https://fonts.google.com/specimen/Roboto)
 * Inspiration:
    * [Stack Overflow](https://stackoverflow.com/)  
