@@ -29,6 +29,10 @@
 #### Font: [Publico](https://github.com/NewsappAJC/tablemaker/tree/master/src/style/fonts/publico)
 * Inspiration:
    * [Olmo](https://olmo.io/)
+
+#### Font: [PT Serif](https://fonts.google.com/specimen/PT+Serif)
+* Inspiration:
+   * [Parrot](https://parrothq.com/)
    
  
 
