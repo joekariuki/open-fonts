@@ -11,6 +11,8 @@
 #### Font: [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 * Inspiration: 
   * [Sip](http://sipapp.io/)
+  * [IBM Plex Sans](https://www.ibm.com/plex/)
+  * [Reddit](https://www.reddit.com/)
 
 #### Font: [Inter UI](https://rsms.me/inter/)
 * Inspiration: 
@@ -53,6 +55,7 @@
 * Inspiration:
    * [Converkit](https://convertkit.com/)
    * [Discourse](https://www.discourse.org/)
+   * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
    * [Slidebean](https://slidebean.com/)
    * [Park.io](https://park.io/)
     
