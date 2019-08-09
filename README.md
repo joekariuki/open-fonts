@@ -31,7 +31,7 @@ If you found this project helpful, consider supporting through the link below. Y
 * Author: [@_joekariuki](https://twitter.com/_joekariuki)
 * Website Creators: websites listed in this repository have their creators credited.
 
-### References
+### Resources
 * [Google Fonts](https://fonts.google.com/)
 * [Font Pair](https://fontpair.co/)
 * [Land-book](https://land-book.com/)
